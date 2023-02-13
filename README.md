@@ -44,6 +44,31 @@ Here is a list of available commands and their respective permissions in PearlCl
 | /claim admin giveclaim < player > < claimID > | Give the target player the claim with the provided ID                                                                            | claim.admin          |
 | /claim admin import                           | Import the claims data from EpicProtections/Protection Stones (if you want us to add more plugins please let us know on discord) | claim.admin          |
 | /claim admin reload                           | Reload every file and configuration and recreate files that are missing                                                          | claim.admin          |
+<br><br>
+### Additional Permissions
+
+| Permission | Description | Default |
+|------------|-------------|---------|
+| pearlclaim.admin | Permission to override and manipulate every claim | op |
+| pearlcalim.flag.* | Permission to manipulate every flag | op |
+| pearlclaim.flag.pvp | Permission to manipulate the flag PVP | op |
+| pearlclaim.flag.hostile_spawning | Permission to manipulate the flag HOSTILE_SPAWNING | op |
+| pearlclaim.flag.peaceful_spawning | Permission to manipulate the flag PEACEFUL_SPAWNING | op |
+| pearlclaim.flag.crop_growth | Permission to manipulate the flag CROP_GROWTH | op |
+| pearlclaim.flag.interact | Permission to manipulate the flag INTERACT | op |
+| pearlclaim.flag.containers | Permission to manipulate the flag CONTAINERS | op |
+| pearlclaim.flag.explosions | Permission to manipulate the flag EXPLOSIONS | op |
+| pearlclaim.flag.entity_interact | Permission to manipulate the flag ENTITY_INTERACT | op |
+| pearlclaim.flag.water_flow | Permission to manipulate the flag WATER_FLOW | op |
+| pearlclaim.flag.lava_flow | Permission to manipulate the flag LAVA_FLOW | op |
+| pearlclaim.flag.player_fly | Permission to manipulate the flag PLAYER_FLY | op |
+| pearlclaim.flag.set_home | Permission to manipulate the flag SET_HOME | op |
+| pearlclaim.flag.fire_spread | Permission to manipulate the flag FIRE_SPREAD | op |
+| pearlclaim.flag.pve | Permission to manipulate the flag PVE | op |
+| pearlclaim.role.edit | Permission to modify a role's permissions in a claim | op |
+| pearlclaim.claims.list | Permission to see your claims | op |
+| pearlclaim.claims.teleport | Permission to teleport to your claims | op |
+| pearlclaims.claims.changename | Permission to change your claim's display name | op |
 <br><br><br>
 
 ## General Configurations
