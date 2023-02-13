@@ -1,4 +1,4 @@
-![PearlClaim Logo](https://github.com/PearlLabTeam/PearlClaim/blob/main/images/smallers-logo.png?raw=true)
+<img src="https://github.com/PearlLabTeam/PearlClaim/blob/main/images/smallers-logo.png" width=1500 height=700>
 ## Introduction
 PearlClaim is the premier land claiming plugin for your server, offering advanced features and complete control over your lands. With our user-friendly, advanced GUI, you can easily edit everything in-game. Despite being in beta mode, we are dedicated to improving the plugin and making it the best it can be. Any feedback and bug reports are welcome and will be addressed promptly. Experience the ultimate in land claiming technology and secure your lands with PearlClaim today.
 
