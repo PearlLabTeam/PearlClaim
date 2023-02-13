@@ -16,7 +16,7 @@ Some popular permissions plugins include:
 
 ## Table of Contents
 - [Commands and Permissions](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Commands-and-Permissions)
-- [General Configurations](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#General-Configuration)
+- [General Configurations](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#General-Configurations)
 - [Creating and Configuring Claims]()
 - [Adding Storages to Claims]()
 - [Blacklist Worlds]()
