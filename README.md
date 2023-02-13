@@ -27,8 +27,8 @@ Some popular permissions plugins include:
 - [Commands and Permissions](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Commands-and-Permissions)
 - [General Configurations](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#General-Configurations)
 - [Creating and Configuring Claims](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Creating-and-Configuring-Claims)
-- [Adding Storages to Claims]()
-- [Blacklist Worlds]()
+- [Adding Storages to Claims](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Adding-Storages-to-Claims)
+- [Blacklist Worlds](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Blacklisted-Worlds)
 - [Coming from Another Claim Plugin]()
 - [API Usage]()
 
@@ -238,3 +238,44 @@ Deletes the claim and all its configurations.
 Returns to the main menu.
 
 <img src="https://i.imgur.com/WxAbeBL.png" width="" height=""><br>
+<br><br>
+
+# Adding Storages to Claims
+We are pleased to introduce our state-of-the-art storage system for your land. Our system offers a convenient and efficient solution for virtual storage without the need for physical chests.
+
+With a few simple clicks, you can customize every aspect of your claim's storage, including the number of storages, their size, and even premade content for a kit if desired. Our system creates a virtual storage system that is copied over to the player's claim, giving them full control over their storage needs.
+
+In addition, you have complete control over the look of the storage's GUI through the StoragesGUI.yml file. If you wish to connect a specific button to a backpack, simply provide the ID of the backpack within the file.
+
+We are confident that our advanced storage system will exceed your expectations and provide you with the best possible experience. Thank you for considering our product.
+<br><br>
+
+### To begin, simply click on the "Create a Storage" button located on the Anvil.
+
+<img src="https://i.imgur.com/xDaU8Sf.png" width="" height=""><br>
+
+### After clicking the button, you will be prompted to enter the name of the storage, which will serve as the identifier for linking the storage to the StorageGUI file.
+
+<img src="https://i.imgur.com/15IHfvi.png" width="" height=""><br>
+
+### Upon providing the name, you will be required to specify the size of the storage in terms of the number of slots available in the inventory.
+
+<img src="https://i.imgur.com/QZ0LBx1.png" width="" height=""><br>
+
+### Once the necessary information has been entered, a new storage button will be generated within the Storage Editor GUI. If you would like to include pre-made items in the storage, simply place them inside the storage, and they will be added to the player's storage upon receipt of the claim. If you prefer an empty storage, simply omit this step.
+
+<img src="https://i.imgur.com/crMKUWh.png" width="" height=""><br>
+<img src="https://i.imgur.com/QFI4sVI.png" width="" height=""><br><br><br>
+
+# Blacklisted Worlds
+**We understand the need to control and manage claim creation in certain regions. That is why we are proud to offer our Blacklisted Worlds system, which allows you to disable the creation of claims in designated worlds.**
+
+**To utilize this system, simply navigate to the Blacklisted Worlds button within the Admin Configuration GUI and select the world in which you wish to block claim creation. It is that simple! If the world name is displayed in bold, it indicates that claim creation is disabled in that world. If it is not displayed in bold, claim creation is permitted in that world.**
+
+**Please note that this feature is currently limited to blocking claim creation in general, but in the future, we plan to expand its capabilities to include the ability to block access for placing specific types of claims in specific worlds.**
+
+**We hope that this feature proves helpful in streamlining your claim management process.**
+
+<img src="https://i.imgur.com/Kmj1Wfv.png" width="" height=""><br>
+<img src="https://i.imgur.com/wbymNiD.png" width="" height=""><br>
+<img src="https://i.imgur.com/RvhpncD.png" width="" height=""><br>
