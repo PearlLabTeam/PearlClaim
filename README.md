@@ -44,11 +44,11 @@ Here is a list of available commands and their respective permissions in PearlCl
 | /claim admin giveclaim < player > < claimID > | Give the target player the claim with the provided ID                                                                            | claim.admin          |
 | /claim admin import                           | Import the claims data from EpicProtections/Protection Stones (if you want us to add more plugins please let us know on discord) | claim.admin          |
 | /claim admin reload                           | Reload every file and configuration and recreate files that are missing                                                          | claim.admin          |
-
+<br><br><br>
 
 ## General Configurations
 Some general configurations that are available to admins include:
-<br><br><br>
+<br>
 
 ### Selection Outline
 The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
