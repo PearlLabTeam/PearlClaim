@@ -14,7 +14,7 @@ Some popular permissions plugins include:
 - UltraPermissions
 
 ## Table of Contents
-- [Commands and Permissions](https://github.com/PearlLabTeam/PearlClaim#readme#Commands-and-Permissions)
+- [Commands and Permissions](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Commands-and-Permissions)
 - Permissions
 - General Configurations
 - Creating and Configuring Claims
