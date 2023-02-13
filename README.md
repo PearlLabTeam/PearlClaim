@@ -289,9 +289,9 @@ We are confident that our advanced storage system will exceed your expectations 
 
 **We are confident that our Import System will make your transition to our land claiming solution a smooth and effortless experience. We hope you will consider choosing our plugin for your land management needs.**
 
-*( **IMPORTANT:** As you consider using our importation system, we kindly remind you to prioritize the safety and stability of your server data. Before proceeding, it is essential that you create a backup of your server to ensure that any unintended consequences can be easily addressed. In the event that any technical issues arise during the importation process, our dedicated support team will be available to assist you in resolving the issue. However, please note that while we will strive to resolve any code-related problems, we may not be able to restore any data that may have been lost or damaged. By taking the precaution of creating a backup beforehand, you can ensure the security of your data and minimize any potential disruption to your server. Thank you for considering our importation system)*
+*( **IMPORTANT:** As you consider using our importation system, we kindly remind you to prioritize the safety and stability of your server data. Before proceeding, it is essential that you create a backup of your server to ensure that any unintended consequences can be easily addressed. In the event that any technical issues arise during the importation process, our dedicated support team will be available to assist you in resolving the issue. However, please note that while we will strive to resolve any code-related problems, we may not be able to restore any data that may have been lost or damaged. By taking the precaution of creating a backup beforehand, you can ensure the security of your data and minimize any potential disruption to your server. Thank you for considering our importation system )*
 
-![Demo](https://imgur.com/5DP5dwP.gif)
+<img src="https://imgur.com/5DP5dwP.gif" width="" height=""><br>
 <br><br>
 
 # API Usage
