@@ -17,7 +17,7 @@ Some popular permissions plugins include:
 ## Table of Contents
 - [Commands and Permissions](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Commands-and-Permissions)
 - [General Configurations](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#General-Configurations)
-- [Creating and Configuring Claims]()
+- [Creating and Configuring Claims](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Creating-and-Configuring-Claims)
 - [Adding Storages to Claims]()
 - [Blacklist Worlds]()
 - [Coming from Another Claim Plugin]()
@@ -85,3 +85,68 @@ This option determines the requirement for players to have a specific permission
 <br><br><br>
 
 *All of these configurations can be easily modified from the plugin's settings menu, making it quick and simple for admins to get the plugin configured exactly how they want it.*
+<br><br><br>
+# Creating and Configuring Claims
+Creating and modifying claims has never been simpler. PearlClaim offers an in-game claim creation system for server administrators, providing a more intuitive and user-friendly approach compared to other plugins that require manual modification within configuration files. To create a new claim, simply navigate to the Claims Editor GUI by clicking the "Claims Editor" button within the Admin Configuration and then select the "Create a Claim" button. When it comes to modifying a specific claim, simply click on it to access another GUI containing a range of customization options.
+
+### Default Claim
+This option allows administrators to set the claim as default, meaning it will be added to new players' stored claims upon joining.
+
+<img src="https://i.imgur.com/iUWQZlT.png" width="" height="">
+<br><br>The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
+<br><br><br>
+
+### Modify Storage
+This option opens a separate GUI that enables the modification of the claim's storage settings. Additional information can be found in the "Creating and Configuring Claims" section.
+
+<img src="https://i.imgur.com/IKpKddo.png" width="" height="">
+
+***Claim's Storage Editor***
+
+<img src="https://i.imgur.com/C5VyhJe.png" width="" height="">
+<br><br><br>
+
+### Give to Player
+Allows administrators to transfer the claim to another player by specifying the player's name in chat. It is important to note that any updates made to the claim after it has been transferred will not be reflected in the recipient player's stored claims.
+
+<img src="https://i.imgur.com/EXw16Fz.png" width="" height=""><br><br>
+<img src="https://i.imgur.com/yqd4CZD.png" width="" height=""><br><br>
+<img src="https://i.imgur.com/naRxnMh.png" width="" height=""><br><br>
+<img src="https://i.imgur.com/djGdTBi.png" width="" height="">
+<br><br><br>
+
+### Change Radius
+Enables the adjustment of the X, Y, and Z starting radius of the claim.
+
+<img src="https://i.imgur.com/GNyQtRi.png" width="" height=""><br><br>
+<img src="https://i.imgur.com/4Lp6BiV.png" width="" height=""><br><br>
+<img src="https://i.imgur.com/Wqwc9aN.png" width="" height=""><br><br>
+<img src="https://i.imgur.com/GlkIqsj.png" width="" height="">
+<br><br><br>
+
+### Allow Upgrade
+This option determines whether players with the claim can upgrade it using in-game currency.
+
+<img src="https://i.imgur.com/zXPvm0H.png" width="" height=""><br><br>
+If set to **UPGRADABLE,** you will need to provide values for per-block-upgrade-cost and max-upgrade-radius for all X,Y, and Z
+
+<img src="https://i.imgur.com/iDlBA46.png" width="" height=""><br><br>
+<img src="https://i.imgur.com/FiEz2wz.png" width="" height=""><br><br>
+
+### Creation Prompt Block
+Specifies the animation block that will accompany the player when selecting land to claim. This block will indicate the center point of the claim.
+
+<img src="https://i.imgur.com/8nup5YJ.png" width="" height=""><br><br>
+***When activated, this button will initiate the opening of a new graphical user interface with multiple pages. Within this interface, the user will have the ability to select the material of the animation item.***
+
+<img src="https://i.imgur.com/WpP8qtD.png" width="" height=""><br>
+
+### Delete
+Deletes the claim and all its configurations.
+
+<img src="https://i.imgur.com/PqwY4Ub.png" width="" height=""><br>
+
+### Back
+Returns to the main menu.
+
+<img src="https://i.imgur.com/WxAbeBL.png" width="" height=""><br>
