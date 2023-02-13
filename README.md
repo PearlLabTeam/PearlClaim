@@ -29,18 +29,59 @@ Please note that PearlClaim is currently in beta mode and may contain some bugs.
 ## Commands and Permissions
 Here is a list of available commands and their respective permissions in PearlClaim:
 
-| Command                                       | Description                                                                                                                      | Permission    |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------|
-| /claim                                        | Open the config menu of a claim if standing in one                                                                               | claim.use     |
-| /claim create                                 | Create a claim from your stored claims (if any)                                                                                  | claim.create  |
-| /claim edit                                   | Open the config menu of a claim if standing in one                                                                               | claim.edit    |
-| /claim flags                                  | Open the flags GUI of the claim you're standing on                                                                               | claim.flags   |
-| /claim storage                                | Open the storages that you have available in your claim                                                                          | claim.storage |
-| /claim delete                                 | Delete the claim you're standing on                                                                                              | claim.delete  |
-| /claim store                                  | Pick up and store the claim you're standing on                                                                                   |               |
-| /claim members < + / - > < player >           | Add or remove the given player into the claim you're standing on                                                                 |               |
-| /claim role < member/admin >                  | Modify the member or admin roles from the claim you're standing on                                                               |               |
-| /claim admin                                  | Open the Admin Configuration GUI                                                                                                 |               |
-| /claim admin giveclaim < player > < claimID > | Give the target player the claim with the provided ID                                                                            |               |
-| /claim admin import                           | Import the claims data from EpicProtections/Protection Stones (if you want us to add more plugins please let us know on discord) |               |
-| /claim admin reload                           | Reload every file and configuration and recreate files that are missing                                                          |               |
+| Command                                       | Description                                                                                                                      | Permission           |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| /claim                                        | Open the config menu of a claim if standing in one                                                                               | claim.use            |
+| /claim create                                 | Create a claim from your stored claims (if any)                                                                                  | claim.create         |
+| /claim edit                                   | Open the config menu of a claim if standing in one                                                                               | claim.edit           |
+| /claim flags                                  | Open the flags GUI of the claim you're standing on                                                                               | claim.flags          |
+| /claim storage                                | Open the storages that you have available in your claim                                                                          | claim.storage        |
+| /claim delete                                 | Delete the claim you're standing on                                                                                              | claim.delete         |
+| /claim store                                  | Pick up and store the claim you're standing on                                                                                   | claim.store          |
+| /claim members < + / - > < player >           | Add or remove the given player into the claim you're standing on                                                                 | claim.modify.members |
+| /claim role < member/admin >                  | Modify the member or admin roles from the claim you're standing on                                                               | claim.modify.roles   |
+| /claim admin                                  | Open the Admin Configuration GUI                                                                                                 | claim.admin          |
+| /claim admin giveclaim < player > < claimID > | Give the target player the claim with the provided ID                                                                            | claim.admin          |
+| /claim admin import                           | Import the claims data from EpicProtections/Protection Stones (if you want us to add more plugins please let us know on discord) | claim.admin          |
+| /claim admin reload                           | Reload every file and configuration and recreate files that are missing                                                          | claim.admin          |
+
+
+## General Configurations
+Some general configurations that are available to admins include:
+<br><br><br>
+
+### Selection Outline
+The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
+
+<img src="https://i.imgur.com/PSh4yki.png" width="" height="">
+<br><br>The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
+<br><br><br>
+
+### Default Claims toggle
+The "Default Claims toggle" option provides administrators with the ability to regulate the automatic generation of claims for new players upon joining the server. When enabled, if PearlClaim does not detect a player data file for a new player, it will generate one and automatically add the default claims defined within the system. This function enables a seamless and efficient claim generation process for new players.
+
+<img src="https://i.imgur.com/jDVTBQO.png" width="" height="">
+<br><br>The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
+<br><br><br>
+
+### Language Switching
+This feature provides the ability for administrators to switch between multiple languages, ensuring that the plugin interface and related messages are displayed in the preferred language selection.
+
+<img src="https://i.imgur.com/X6VJuIA.png" width="" height="">
+<br><br>The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
+<br><br><br>
+
+### Claim Storage toggle
+This option provides administrators with the ability to control the storage access of all claims within the system. When the storage option is set to "Disabled," it will restrict player access to all stored claims without impacting the actual content of the stored data.
+
+<img src="https://i.imgur.com/JYwc76w.png" width="" height="">
+<br><br>The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
+<br><br><br>
+
+### Claim Storage Require Permission
+This option determines the requirement for players to have a specific permission in order to access the storage through the graphical user interface (GUI). When set to "required," players must possess the specified permission in order to generate the storage in the GUI. On the other hand, if set to "not required," players will be able to see the storage button in the GUI even without the permission. However, it is important to note that this setting does not affect the player's ability to actually access the storage's contents, which will still require the specified permission.
+<img src="https://i.imgur.com/ty2frbx.png" width="" height="">
+<br><br>The option can be easily modified through a simple click, as shown in the accompanying image. This intuitive and straightforward process makes it quick and effortless for administrators to adjust the setting according to their preferences.
+<br><br><br>
+
+*All of these configurations can be easily modified from the plugin's settings menu, making it quick and simple for admins to get the plugin configured exactly how they want it.*
