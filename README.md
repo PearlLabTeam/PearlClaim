@@ -5,13 +5,14 @@ PearlClaim is the premier land claiming plugin for your server, offering advance
 
 ## Dependencies
 The following must be installed for PearlClaim to function properly:
-- Vault.jar
+- [Vault.jar](https://www.spigotmc.org/resources/vault.34315/)
 - An economy plugin
 - A permissions plugin
 
 Some popular permissions plugins include:
-- LuckPerms
-- UltraPermissions
+- [LuckPerms](https://luckperms.net/)
+- [UltraPermissions](https://www.spigotmc.org/resources/ultra-permissions.42678/)
+- [GroupManager](https://www.spigotmc.org/resources/groupmanager.38875/)
 
 ## Table of Contents
 - [Commands and Permissions](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Commands-and-Permissions)
