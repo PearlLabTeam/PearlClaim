@@ -16,13 +16,12 @@ Some popular permissions plugins include:
 
 ## Table of Contents
 - [Commands and Permissions](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Commands-and-Permissions)
-- [Permissions] ()
-- [General Configurations] ()
-- [Creating and Configuring Claims] ()
-- [Adding Storages to Claims] ()
-- [Blacklist Worlds] ()
-- [Coming from Another Claim Plugin] ()
-- [API Usage] ()
+- [General Configurations]()
+- [Creating and Configuring Claims]()
+- [Adding Storages to Claims]()
+- [Blacklist Worlds]()
+- [Coming from Another Claim Plugin]()
+- [API Usage]()
 
 ## Note
 Please note that PearlClaim is currently in beta mode and may contain some bugs. If you encounter any difficulties, we encourage you to reach out to us on our discord server, where we will be more than happy to assist you and resolve any issues. Thank you for your understanding and support as we continue to improve and enhance the functionality of PearlClaim.
