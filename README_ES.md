@@ -25,13 +25,13 @@ Algunos plugins de permisos recomendados son:
 
 ## Tabla de Contenido
 
-- [Comandos y Permisos](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Comandos-y-Permisos)
-- [Configuraciones Generales](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Configuraciones-Generales)
+- [Comandos y Permisos](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md#Comandos-y-Permisos)
+- [Configuraciones Generales](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md#Configuraciones-Generales)
 - [Creacion y Configuracion de Terrenos](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Creacion-y-Configuraciones-de-Terrenos)
-- [Añadir Almacenes a los Terrenos](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Añadir-Almacenes-a-los-Terrenos)
-- [Mundos en Lista Negra](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Mundos-en-Lista-Negra)
-- [Procedente de Otros Plugins de Terrenos](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#Procedente-de-Otros-Plugins-de-Terrenos?)
-- [API Uso](https://github.com/PearlLabTeam/PearlClaim/blob/main/README.md#API-Uso)
+- [Añadir Almacenes a los Terrenos](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md#Añadir-Almacenes-a-los-Terrenos)
+- [Mundos en Lista Negra](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md#Mundos-en-Lista-Negra)
+- [Procedente de Otros Plugins de Terrenos](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md#Procedente-de-Otros-Plugins-de-Terrenos?)
+- [API Uso](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md#API-Uso)
 
 ## Nota
 
