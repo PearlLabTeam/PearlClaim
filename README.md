@@ -1,6 +1,6 @@
 <img src="https://github.com/PearlLabTeam/PearlClaim/blob/main/images/smallers-logo.png" width=1500 height=700>
 
-### **Spanish** User? Check out [this](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md) version of the wiki
+## **Spanish** User? Check out [this](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md) version of the wiki
 
 ## Introduction
 
