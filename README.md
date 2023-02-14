@@ -1,5 +1,7 @@
 <img src="https://github.com/PearlLabTeam/PearlClaim/blob/main/images/smallers-logo.png" width=1500 height=700>
 
+### Spanish User? Check out [this](https://github.com/PearlLabTeam/PearlClaim/blob/main/README_ES.md) version of the wiki
+
 ## Introduction
 
 PearlClaim is the premier land claiming plugin for your server, offering advanced features and complete control over
