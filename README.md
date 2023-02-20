@@ -241,12 +241,13 @@ Returns to the main menu.
 <br><br>
 
 # Adding Storages to Claims
+  
 We are pleased to introduce our state-of-the-art storage system for your land. Our system offers a convenient and efficient solution for virtual storage without the need for physical chests.
 
 With a few simple clicks, you can customize every aspect of your claim's storage, including the number of storages, their size, and even premade content for a kit if desired. Our system creates a virtual storage system that is copied over to the player's claim, giving them full control over their storage needs.
 
-In addition, you have complete control over the look of the storage's GUI through the StoragesGUI.yml file. If you wish to connect a specific button to a backpack, simply provide the ID of the backpack within the file.
-
+**To modify the StorageGUI's model for this specific claim, follow this tutorial** [![tutorial](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+  
 We are confident that our advanced storage system will exceed your expectations and provide you with the best possible experience. Thank you for considering our product.
 <br><br>
 
