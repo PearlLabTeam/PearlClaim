@@ -247,7 +247,7 @@ We are pleased to introduce our state-of-the-art storage system for your land. O
 
 With a few simple clicks, you can customize every aspect of your claim's storage, including the number of storages, their size, and even premade content for a kit if desired. Our system creates a virtual storage system that is copied over to the player's claim, giving them full control over their storage needs.
 
-**For a tutorial on how to modify the look of the storage's GUI for certain claims, watch this video** [![Tutorial](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+**For a tutorial on how to modify the look of the storage's GUI for certain claims, watch this video** [![Tutorial](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Yr6ab1ZcWTA)
 
 We are confident that our advanced storage system will exceed your expectations and provide you with the best possible experience. Thank you for considering our product.
 <br><br>
