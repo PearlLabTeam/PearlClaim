@@ -233,7 +233,7 @@ Nos complace presentar nuestro sistema de almacenamiento de última generación 
 
 Con unos pocos clicks, puede personalizar cada aspecto del almacenamiento de su terreno, incluyendo el número de almacenamientos, su tamaño e incluso el contenido predefinido para un kit si se desea. Nuestro sistema crea un sistema de almacenamiento virtual que se copia en el terreno del jugador, dándole control total sobre sus necesidades de almacenamiento.
 
-Además, tienes control completo sobre el aspecto de la interfaz gráfica de usuario (Menú) del almacenamiento a través del archivo StoragesGUI.yml. Si desea conectar un botón específico a una mochila, simplemente proporcione el ID de la mochila dentro del archivo.
+**FPara modificar la apariencia de la interfaz gráfica de usuario de ciertos terrenos en el almacenamiento, mira este video.** [![Tutorial](https://img.youtube.com/vi/Yr6ab1ZcWTA/0.jpg)](https://www.youtube.com/watch?v=Yr6ab1ZcWTA)
 
 Estamos seguros de que nuestro sistema avanzado de almacenamiento superará tus expectativas y te proporcionará la mejor experiencia posible. Gracias por considerar nuestro plugin.
 <br><br>
