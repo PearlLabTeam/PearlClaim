@@ -57,6 +57,8 @@ Here is a list of available commands and their respective permissions in PearlCl
 | /claim store                                  | Pick up and store the claim you're standing on                                                                                   | pearlclaim.store           |
 | /claim members < + / - > < player >           | Add or remove the given player into the claim you're standing on                                                                 | pearlclaim.modify.members  |
 | /claim role < member/admin >                  | Modify the member or admin roles from the claim you're standing on                                                               | pearlclaim.modify.roles    |
+| /claim linkstorage | Link your claim's storage to a block inside your claim | pearlclaim.linkstorage
+| /claim unlinstorage | Unlink your claim's storage if it is linked to a block | pearlclaim.linkstorage
 | /claim admin                                  | Open the Admin Configuration GUI                                                                                                 | pearlclaim.admin           |
 | /claim admin giveclaim < player > < claimID > | Give the target player the claim with the provided ID                                                                            | pearlclaim.admin           |
 | /claim admin import                           | Import the claims data from EpicProtections/Protection Stones (if you want us to add more plugins please let us know on discord) | pearlclaim.admin           |
