@@ -276,7 +276,9 @@ We are confident that our advanced storage system will exceed your expectations 
 
 ### It is very simple to connect your storage to a block to avoid typing in the storage command everytime you want to use the storage gui. Simply type in /claim linkstorage or unlinkstorage to unlink.
 
-**For a tutorial on how this is done, look here** [![Tutorial](https://img.youtube.com/vi/Yr6ab1ZcWTA/0.jpg)](https://www.youtube.com/watch?v=zxfC2yx8YKo&t=2s)
+**For a tutorial on how this is done, look here** 
+[![Tutorial](https://img.youtube.com/vi/Yr6ab1ZcWTA/0.jpg)](https://www.youtube.com/watch?v=zxfC2yx8YKo&t=2s)
+
 
 # Blacklisted Worlds
 **We understand the need to control and manage claim creation in certain regions. That is why we are proud to offer our Blacklisted Worlds system, which allows you to disable the creation of claims in designated worlds.**
