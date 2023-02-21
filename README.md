@@ -245,6 +245,7 @@ Returns to the main menu.
 <br><br>
 
 # Adding Storages to Claims
+
 We are pleased to introduce our state-of-the-art storage system for your land. Our system offers a convenient and efficient solution for virtual storage without the need for physical chests.
 
 With a few simple clicks, you can customize every aspect of your claim's storage, including the number of storages, their size, and even premade content for a kit if desired. Our system creates a virtual storage system that is copied over to the player's claim, giving them full control over their storage needs.
@@ -270,6 +271,12 @@ We are confident that our advanced storage system will exceed your expectations 
 
 <img src="https://i.imgur.com/crMKUWh.png" width="" height=""><br>
 <img src="https://i.imgur.com/QFI4sVI.png" width="" height=""><br><br><br>
+
+# Linking Storages to a Block
+
+### It is very simple to connect your storage to a block to avoid typing in the storage command everytime you want to use the storage gui. Simply type in /claim linkstorage or unlinkstorage to unlink.
+
+**For a tutorial on how this is done, look here** [![Tutorial](https://www.youtube.com/watch?v=zxfC2yx8YKo)](https://www.youtube.com/watch?v=zxfC2yx8YKo)
 
 # Blacklisted Worlds
 **We understand the need to control and manage claim creation in certain regions. That is why we are proud to offer our Blacklisted Worlds system, which allows you to disable the creation of claims in designated worlds.**
