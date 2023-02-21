@@ -56,6 +56,8 @@ Aquí está la lista de comandos disponibles de PearlClaim y sus respectivos per
 | /claim store                                    | Recoge y Almacene el Terreno en el que te encuentras                                                                                       | pearlclaim.store           |
 | /claim members < + / - > < jugador >            | Añade o elimina a un jugador en el Terreno en el que te encuentras                                                                         | pearlclaim.modify.members  |
 | /claim role < member/admin >                    | Modifica los roles de Miembro/Administrador del Terreno en el que te encuentras                                                            | pearlclaim.modify.roles    |
+| /claim linkstorage | Conecta el almazen de tu claim a un bloque | pearlclaim.linkstorage
+| /claim unlinstorage | Desconecta el storage de tu claim si esta conectado a un bloque | pearlclaim.linkstorage
 | /claim admin                                    | Abre el Menú de Configuración Administrativo                                                                                               | pearlclaim.admin           |
 | /claim admin giveclaim < jugador > < terrenoID >| Da a un jugador un Terreno con la ID mencionada                                                                                            | pearlclaim.admin           |
 | /claim admin import                             | Importa Terrenos/Protecciones de EpicProtections/Protection Stones (Si quieres que añadamos más plugins, háznolo saber en nuestro Discord) | pearlclaim.admin           |
@@ -255,6 +257,15 @@ Estamos seguros de que nuestro sistema avanzado de almacenamiento superará tus 
 <img src="https://i.imgur.com/crMKUWh.png" width="" height=""><br>
 <img src="https://i.imgur.com/QFI4sVI.png" width="" height=""><br><br><br>
 
+# Linking Storages to a Block
+
+### Es muy sencillo conectar tu almacenamiento a un bloque para evitar tener que escribir el comando del almacenamiento cada vez que desees utilizar la interfaz gráfica del mismo. Simplemente escribe /claim linkstorage o /claim unlinkstorage para desconectarlo.
+
+**Para ver como se hace, mirar aqui...** 
+[![Tutorial](https://img.youtube.com/vi/Yr6ab1ZcWTA/0.jpg)](https://www.youtube.com/watch?v=zxfC2yx8YKo&t=2s)
+
+
+  
 # Mundos en Lista Negra
 **Entendemos la necesidad de controlar y gestionar la creación de terrenos en ciertas regiones. Es por eso que nos enorgullece ofrecer nuestro sistema de Mundos en Lista Negra, que le permite deshabilitar la creación de terrenos en ciertos mundos.**
 
